@@ -42,7 +42,7 @@ export default async function Home() {
             <div className="w-9 h-9 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-xl flex items-center justify-center">
               <span className="text-white font-bold text-xl">P</span>
             </div>
-            <h1 className="text-2xl font-bold text-gray-900">Mein Blog</h1>
+            <h1 className="text-2xl font-bold text-gray-500">Mein Blog</h1>
           </div>
 
           <nav className="flex items-center gap-6 text-sm">
